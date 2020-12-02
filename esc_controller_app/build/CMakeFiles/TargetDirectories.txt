@@ -1,0 +1,3 @@
+/home/gumia/Documents/uart_pro/esc_controller_app/build/CMakeFiles/rebuild_cache.dir
+/home/gumia/Documents/uart_pro/esc_controller_app/build/CMakeFiles/esc_controller_app.dir
+/home/gumia/Documents/uart_pro/esc_controller_app/build/CMakeFiles/edit_cache.dir
